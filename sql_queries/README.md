@@ -1,18 +1,23 @@
-# E-Commerce Sales Analysis Project
+# Ecommerce Sales Analysis
 
-## 📊 Project Overview
-This project analyzes e-commerce sales data.
+## Project Overview
+This project analyzes ecommerce sales data using SQL queries.
 
-## 🚀 How to Run
+## SQL Queries & Results
 
-1. Install MySQL
-2. Open MySQL
-3. Run the SQL files in order:
-   - 01_create_tables.sql
-   - 02_insert_data.sql
-   - 03_analysis_queries.sql
+### Query 1
+![Query 1](screenshots/query_1.png)
 
-## 📁 Folder Structure
-- data/ - Stores CSV files
-- sql_queries/ - SQL scripts
-- results/ - Analysis results
+### Query 2
+![Query 2](screenshots/query_2.png)
+
+### Results
+![Results](screenshots/results.png)
+
+## Technologies Used
+- SQL
+- Python
+- MySQL
+
+## Repository
+https://github.com/dancunkiplangat865-spec/ecommerce-sales-analysis
